@@ -1,5 +1,5 @@
  {
-  "name": "marianabm/Counter-Up",
+  "name": "devaptas/Counter-Up",
   "version": "1.0.0",
   "title": "Counter-Up",
   "description": "A lightweight jQuery plugin that counts up to a targeted number when the number becomes visible.",
@@ -16,15 +16,15 @@
     "float",
     "animation"
   ],
-  "homepage": "https://github.com/marianabm/Counter-Up",
+  "homepage": "https://github.com/bfintal/Counter-Up",
   "author": "Benjamin Intal",
   "bugs": {
-    "url": "https://github.com/marianabm/Counter-Up/issues"
+    "url": "https://github.com/bfintal/Counter-Up/issues"
   },
   "licenses": [
     {
       "type": "GPL2",
-      "url": "https://raw.github.com/marianabm/Counter-Up/master/LICENSE"
+      "url": "https://raw.github.com/bfintal/Counter-Up/master/LICENSE"
     }
   ],
   "dependencies": {
@@ -36,6 +36,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/marianabm/Counter-Up"
+    "url": "https://github.com/bfintal/Counter-Up"
   }
 }
